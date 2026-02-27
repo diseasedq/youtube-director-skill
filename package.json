@@ -1,0 +1,10 @@
+{
+  "name": "youtube-director-skill",
+  "version": "1.0.0",
+  "description": "Multi-mode YouTube Director skill for Antigravity/OpenClaw",
+  "bin": {
+    "youtube-director-skill": "./index.js"
+  },
+  "type": "module",
+  "license": "MIT"
+}
